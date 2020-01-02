@@ -1,0 +1,22 @@
+https://www.bitballoon.com/
+
+http://neocities.org/
+
+Amazon S3
+
+Google Cloud Storage
+
+Azure Blob
+
+Web server
+Apache, 우리가 쓸 Server
+IIS, Nginx
+
+how to install apache http server window 10
+
+bitnami password kkam0680
+
+http://127.0.0.1/index.html 
+127.0.0.1은 Internel Protocol Address (IP 주소)
+
+Hyper Text Transfer Protocol
